@@ -1,7 +1,7 @@
 name: flutter_string_converter
 authors:
   - Ankush Mishra
-description: Flutter Package for converting string to any type. But the only condition is that the string is in format of that convertible type
+description: This Flutter Package for converting string to date, int, double or set as you want. But the only condition is that the string is in format of that convertible type
 version: 0.0.1
 homepage: https://github.com/ankushmishra2903-official/flutter_string_converter.git
 issue_tracker: https://github.com/ankushmishra2903-official/flutter_string_converter/issues
